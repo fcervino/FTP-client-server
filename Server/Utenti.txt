@@ -1,0 +1,6 @@
+admin
+passwd10
+alice
+passwd20
+bob
+passwd30
